@@ -5,7 +5,7 @@ Steps:
  
   clone repo to a folder.
   
-  run the analysis.py file
+  run the "analysis.py" file
   
   it show info about input 7 giovanni files and create a folder named OUPUT containing statistic data and plot data
 
